@@ -8,3 +8,17 @@
   * Doubly linked lists allow you to move forward and backward through the Lined List
 ## What would you use to implement a Linked List data type? (object, function, class, variable…?)
   * You would use a class to implement the Linked List
+
+# Vocabulary
+
+  * Linked List
+  * Singly Linked
+  * Doubly Linked
+  * Node
+  * next
+  * prev
+  * val
+  * current
+  * head
+  * Circularly Linked
+  * Big-O

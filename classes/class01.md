@@ -13,3 +13,14 @@
   * **N**ode **P**ackage **M**anager: **NPM**
     * It allows us to utilize any *packages* that are created by other developers. So I were to create a package it you could use it with NPM.
 
+# Vocabulary
+  * ecosystem:
+  * Node.js: a runtime environment that allows JavaScript to run outside of the browser
+  * V8 Engine: Googles high perfomenat open-source program that runs JavaScript code
+  * module: collection of functions or JavaScript code that is defined in a single environment
+  * package: contains modules that are made to be shared with other developers
+  * node package manager (npm): allows us to install packages from external developers and maintain package versions and updates
+  * Test Driven Development (TDD): Builds tests to fail, encourages well planned coding
+  * Jest: testing framework that makes it very simple for developers to write and run unit test for code
+  * Continuous Integration (CI): dev practice where all code challenges go through an automatic process 
+  * unit test: modular test that covers one unit of code in an application
