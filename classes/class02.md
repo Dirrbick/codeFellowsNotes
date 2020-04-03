@@ -1,7 +1,11 @@
 ## What is one benefit of JavaScript not enforcing type?
+  * It allows the flexibility to manipulate the different types as the code changes.
 ## What is one downside of JavaScript not enforcing type?
+  * It makes it too squishy and when there is too much flexibility it can end up looking like a jumbled mess
 ## Should the parameters of a function be changed when the function returns? Why or why not?
+  * I think that when the function returns it's value at that point in time changes to whatever got returned. I think it should do that because that way you know exactly what you are looking for.
 ## Describe a type of data that has rules, aside from the given examples of Number, Integer and Float. What are the rules the data should follow?
+  * Functions themselves have rules in a sense that each function should do only one job. The more that you put into a single function the more complicated it can be. Some times you can get lost in your own code. Also a plus to making it so that every function only does one thing, it allows you to be able to call that function all across your app. Any file, so long as you call that file after the one that contains the function... or just export/import the module!!
 
 
 # Vocabulary
